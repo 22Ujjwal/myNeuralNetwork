@@ -1,6 +1,6 @@
 # Neural Network from scratch
 
-## This is my try to building Neural Net by python and linear algebra
+## By python and linear algebra
 
 ---
 
