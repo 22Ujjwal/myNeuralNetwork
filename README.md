@@ -23,4 +23,6 @@
 11. Dropout
 12. Binary Logistic Regression
 
+Unhealthy commit!
+
 Notes: It is basically a unit which takes inputs and weights are associated with each input + bais term
