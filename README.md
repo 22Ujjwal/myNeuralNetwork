@@ -23,6 +23,6 @@
 11. Dropout
 12. Binary Logistic Regression
 
-Unhealthy commit 3!
+Commited to Unhealthy commits! got one after a week gaps
 
 Notes: It is basically a unit which takes inputs and weights are associated with each input + bais term
