@@ -1,4 +1,4 @@
-# Neural Network from scratch
+# Neural Network
 
 ## By python and linear algebra
 
