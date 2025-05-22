@@ -1,6 +1,6 @@
 # Neural Network
 
-## Tech & Tools: python and linear algebra
+## Tools: python and linear algebra
 
 ---
 
