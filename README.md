@@ -26,3 +26,5 @@
 Commited to Unhealthy commits! got one after a week gaps
 
 Notes: It is basically a unit which takes inputs and weights are associated with each input + bais term
+
+## Let's bring down some heat here
